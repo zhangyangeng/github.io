@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wrysmile 的博客</title>
+  
+  <subtitle>欢迎来到我的个人小屋</subtitle>
+  <link href="https://www.wrysmile.cn/atom.xml" rel="self"/>
+  
+  <link href="https://www.wrysmile.cn/"/>
+  <updated>2023-01-17T09:08:24.670Z</updated>
+  <id>https://www.wrysmile.cn/</id>
+  
+  <author>
+    <name>Zhang Yangeng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue开发：TypeScript开发Vue3项目</title>
+    <link href="https://www.wrysmile.cn/Vue-Of-TypeScript.html"/>
+    <id>https://www.wrysmile.cn/Vue-Of-TypeScript.html</id>
+    <published>2022-02-12T14:37:35.000Z</published>
+    <updated>2023-01-17T09:08:24.670Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;用 TypeScript 全面拥抱 Vue 吧！&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Vue开发" scheme="https://www.wrysmile.cn/categories/Vue%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://www.wrysmile.cn/tags/Vue/"/>
+    
+    <category term="TypeScript" scheme="https://www.wrysmile.cn/tags/TypeScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue开发：三方库扩充功能</title>
+    <link href="https://www.wrysmile.cn/Vue-OtherRep.html"/>
+    <id>https://www.wrysmile.cn/Vue-OtherRep.html</id>
+    <published>2022-02-07T15:03:43.000Z</published>
+    <updated>2023-01-17T09:08:24.670Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;不会偷懒的程序员不是一个好的程序员 (bushi&lt;/center&gt;
+
+&lt;center&gt;但是，有现成封装好的组件库为什么不用呢？&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Vue开发" scheme="https://www.wrysmile.cn/categories/Vue%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://www.wrysmile.cn/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>将你的项目从Angular迁移至Vue需要注意什么？</title>
+    <link href="https://www.wrysmile.cn/Angular-Migrate-Vue.html"/>
+    <id>https://www.wrysmile.cn/Angular-Migrate-Vue.html</id>
+    <published>2022-02-07T14:02:11.000Z</published>
+    <updated>2023-01-17T09:08:24.682Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;如果你是一名前端开发工程师&lt;/p&gt;
+&lt;p&gt;且正在尝试将你的项目从 &lt;strong&gt;Angular&lt;/strong&gt;迁移至 &lt;strong&gt;Vue&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;那么本篇文章可以帮你少踩一些坑&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="前端开发" scheme="https://www.wrysmile.cn/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
+    
+    <category term="Vue" scheme="https://www.wrysmile.cn/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue开发：国际化项目</title>
+    <link href="https://www.wrysmile.cn/Vue-i18n.html"/>
+    <id>https://www.wrysmile.cn/Vue-i18n.html</id>
+    <published>2022-01-12T16:32:15.000Z</published>
+    <updated>2023-01-17T09:08:24.670Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s4.ax1x.com/2022/01/13/7M9w0H.png&quot;&gt;&lt;/p&gt;
+&lt;center&gt;想要让自己的项目供不同国家的人使用&lt;/center&gt;
+
+&lt;center&gt;那么我推荐你使用 &lt;strong&gt;vue-i18n&lt;/strong&gt; 来进行国际化项目&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Vue开发" scheme="https://www.wrysmile.cn/categories/Vue%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://www.wrysmile.cn/tags/Vue/"/>
+    
+    <category term="国际化" scheme="https://www.wrysmile.cn/tags/%E5%9B%BD%E9%99%85%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue开发：组件库美化项目</title>
+    <link href="https://www.wrysmile.cn/Vue-UI.html"/>
+    <id>https://www.wrysmile.cn/Vue-UI.html</id>
+    <published>2022-01-12T16:17:42.000Z</published>
+    <updated>2023-01-17T09:08:24.671Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s4.ax1x.com/2022/01/13/7M9OuF.png&quot;&gt;&lt;/p&gt;
+&lt;center&gt;不会偷懒的程序员不是一个好的程序员 (bushi&lt;/center&gt;
+
+&lt;center&gt;但是，有现成封装好的组件库为什么不用呢？&lt;/center&gt;
+
+&lt;center&gt;本文主要以 &lt;strong style=&quot;color:red;&quot;&gt;Ant Design Vue&lt;/strong&gt; 为例&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Vue开发" scheme="https://www.wrysmile.cn/categories/Vue%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="组件库" scheme="https://www.wrysmile.cn/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/"/>
+    
+    <category term="Vue" scheme="https://www.wrysmile.cn/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue开发：报错相关</title>
+    <link href="https://www.wrysmile.cn/Vue-Error.html"/>
+    <id>https://www.wrysmile.cn/Vue-Error.html</id>
+    <published>2022-01-08T14:09:19.000Z</published>
+    <updated>2023-01-17T09:08:24.670Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;本篇主要列举了学习Vue时遇到的一些报错内容&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Vue开发" scheme="https://www.wrysmile.cn/categories/Vue%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://www.wrysmile.cn/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue开发：基础内容</title>
+    <link href="https://www.wrysmile.cn/Vue-basics.html"/>
+    <id>https://www.wrysmile.cn/Vue-basics.html</id>
+    <published>2022-01-06T13:37:11.000Z</published>
+    <updated>2023-01-17T09:08:24.670Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;Vue 需要掌握的基础内容&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Vue开发" scheme="https://www.wrysmile.cn/categories/Vue%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://www.wrysmile.cn/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Angular开发：第三方组件库的使用</title>
+    <link href="https://www.wrysmile.cn/Angular-Library.html"/>
+    <id>https://www.wrysmile.cn/Angular-Library.html</id>
+    <published>2021-12-16T14:44:02.000Z</published>
+    <updated>2023-01-17T09:08:24.668Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;开发时使用合适的组件库可以有效的避免重复造轮子&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Angular开发" scheme="https://www.wrysmile.cn/categories/Angular%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
+    
+    <category term="组件库" scheme="https://www.wrysmile.cn/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Angular开发：操作DOM元素</title>
+    <link href="https://www.wrysmile.cn/Angular-DOM.html"/>
+    <id>https://www.wrysmile.cn/Angular-DOM.html</id>
+    <published>2021-12-16T14:19:07.000Z</published>
+    <updated>2023-01-17T09:08:24.667Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;Angular开发时应该操作DOM元素吗？&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Angular开发" scheme="https://www.wrysmile.cn/categories/Angular%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开发：你永远不知道报错和成功哪一个先来</title>
+    <link href="https://www.wrysmile.cn/KillError.html"/>
+    <id>https://www.wrysmile.cn/KillError.html</id>
+    <published>2021-12-16T14:10:42.000Z</published>
+    <updated>2023-01-17T09:08:24.683Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;人类终于回想起了被 &lt;strong style=&quot;color:red;&quot;&gt;Error&lt;/strong&gt; 支配的恐惧&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="编程技巧" scheme="https://www.wrysmile.cn/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="报错" scheme="https://www.wrysmile.cn/tags/%E6%8A%A5%E9%94%99/"/>
+    
+    <category term="后端" scheme="https://www.wrysmile.cn/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Angular开发：性能优化</title>
+    <link href="https://www.wrysmile.cn/Angular-Capability.html"/>
+    <id>https://www.wrysmile.cn/Angular-Capability.html</id>
+    <published>2021-12-16T13:49:34.000Z</published>
+    <updated>2023-01-17T09:08:24.667Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;在 Angular 中如何进行性能优化呢？&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Angular开发" scheme="https://www.wrysmile.cn/categories/Angular%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习笔记：Angular开发专栏</title>
+    <link href="https://www.wrysmile.cn/Angular-Column.html"/>
+    <id>https://www.wrysmile.cn/Angular-Column.html</id>
+    <published>2021-12-14T13:56:24.000Z</published>
+    <updated>2023-01-17T09:08:24.672Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;考虑到Angular本身难于理解与使用&lt;/center&gt;
+
+&lt;center&gt;特开设专栏留存自己学习时的一些问题&lt;/center&gt;
+
+&lt;center&gt;↓ 查看 ↓&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://www.wrysmile.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
+    
+    <category term="专栏" scheme="https://www.wrysmile.cn/tags/%E4%B8%93%E6%A0%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Angular开发：了解@ViewChild中的static</title>
+    <link href="https://www.wrysmile.cn/Angular-ViewChild.html"/>
+    <id>https://www.wrysmile.cn/Angular-ViewChild.html</id>
+    <published>2021-12-14T13:42:45.000Z</published>
+    <updated>2023-01-17T09:08:24.666Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;如何正确使用@ViewChild中的static？&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Angular开发" scheme="https://www.wrysmile.cn/categories/Angular%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Angular开发：国际化翻译</title>
+    <link href="https://www.wrysmile.cn/Angular-i18n.html"/>
+    <id>https://www.wrysmile.cn/Angular-i18n.html</id>
+    <published>2021-12-14T13:11:31.000Z</published>
+    <updated>2023-01-17T09:08:24.667Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;使用 ngx-translate 来翻译你的 Angular 项目吧&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Angular开发" scheme="https://www.wrysmile.cn/categories/Angular%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>保姆级教程：如何打造属于自己的桌面？</title>
+    <link href="https://www.wrysmile.cn/Mine-Desktop.html"/>
+    <id>https://www.wrysmile.cn/Mine-Desktop.html</id>
+    <published>2021-12-10T16:55:09.000Z</published>
+    <updated>2023-01-17T09:08:24.671Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;想要真正打造一个属于自己的桌面，那么一定要搞清楚自己想要什么，而不是所谓的“抄作业”，那要只是为了好看而好看！&lt;/p&gt;
+&lt;p&gt;本文从零基础开始，根据自己实际情况，同时参考了网上成品，分点进行打造，大家可以选择观看！&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>记录 npm 出现 npm ERR! code EINTEGRITY 原因排查</title>
+    <link href="https://www.wrysmile.cn/npm-error.html"/>
+    <id>https://www.wrysmile.cn/npm-error.html</id>
+    <published>2021-12-07T15:13:51.000Z</published>
+    <updated>2023-01-17T09:08:24.687Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;​    &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技巧" scheme="https://www.wrysmile.cn/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+    
+    <category term="npm" scheme="https://www.wrysmile.cn/tags/npm/"/>
+    
+    <category term="哈希值" scheme="https://www.wrysmile.cn/tags/%E5%93%88%E5%B8%8C%E5%80%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录一次更改MySQL编码导致的问题</title>
+    <link href="https://www.wrysmile.cn/Mysql-Emoji-Problem.html"/>
+    <id>https://www.wrysmile.cn/Mysql-Emoji-Problem.html</id>
+    <published>2021-12-07T15:04:12.000Z</published>
+    <updated>2023-01-17T09:08:24.687Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;​    &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程技巧" scheme="https://www.wrysmile.cn/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+    
+    <category term="MySQL" scheme="https://www.wrysmile.cn/tags/MySQL/"/>
+    
+    <category term="编码" scheme="https://www.wrysmile.cn/tags/%E7%BC%96%E7%A0%81/"/>
+    
+    <category term="Emoji" scheme="https://www.wrysmile.cn/tags/Emoji/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习笔记：ng-zorro</title>
+    <link href="https://www.wrysmile.cn/Learn-ng-zorro.html"/>
+    <id>https://www.wrysmile.cn/Learn-ng-zorro.html</id>
+    <published>2021-09-05T16:33:21.000Z</published>
+    <updated>2023-01-17T09:08:24.679Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;ng-zorro 是一个用在 Angular 项目上的组件库&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://www.wrysmile.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="组件" scheme="https://www.wrysmile.cn/tags/%E7%BB%84%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Angular开发：基础内容</title>
+    <link href="https://www.wrysmile.cn/Learn-Angular.html"/>
+    <id>https://www.wrysmile.cn/Learn-Angular.html</id>
+    <published>2021-08-17T14:55:03.000Z</published>
+    <updated>2023-01-17T09:08:24.667Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;本篇是Angular开发中需要掌握的基础内容&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="Angular开发" scheme="https://www.wrysmile.cn/categories/Angular%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何在一台电脑上分别向 GitHub 与 GitLab 提交不同代码？</title>
+    <link href="https://www.wrysmile.cn/Git-commit.html"/>
+    <id>https://www.wrysmile.cn/Git-commit.html</id>
+    <published>2021-08-15T16:22:40.000Z</published>
+    <updated>2023-01-17T09:08:24.672Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;如何在工作电脑上同时向两个仓库提交代码？&lt;/center&gt;
+
+&lt;center&gt;如何将工作代码和私人代码区分开？&lt;/center&gt;
+
+&lt;center&gt;↓ 看这里 ↓&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="编程技巧" scheme="https://www.wrysmile.cn/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
+    
+    
+    <category term="Git" scheme="https://www.wrysmile.cn/tags/Git/"/>
+    
+    <category term="仓库" scheme="https://www.wrysmile.cn/tags/%E4%BB%93%E5%BA%93/"/>
+    
+  </entry>
+  
+</feed>
