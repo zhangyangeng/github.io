@@ -6,7 +6,7 @@
   <link href="https://www.wrysmile.cn/atom.xml" rel="self"/>
   
   <link href="https://www.wrysmile.cn/"/>
-  <updated>2023-01-17T09:08:24.670Z</updated>
+  <updated>2023-01-18T10:03:41.119Z</updated>
   <id>https://www.wrysmile.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【效率】正则表达式</title>
+    <link href="https://www.wrysmile.cn/Regular-expressions.html"/>
+    <id>https://www.wrysmile.cn/Regular-expressions.html</id>
+    <published>2023-01-18T06:14:45.000Z</published>
+    <updated>2023-01-18T10:03:41.119Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;正则表达式在某些方面可以让你提升更高的效率&lt;/center&gt;</summary>
+    
+    
+    
+    <category term="技能提升" scheme="https://www.wrysmile.cn/categories/%E6%8A%80%E8%83%BD%E6%8F%90%E5%8D%87/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="正则" scheme="https://www.wrysmile.cn/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
   
   <entry>
     <title>Vue开发：TypeScript开发Vue3项目</title>
@@ -425,31 +446,6 @@
     <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
     
     <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何在一台电脑上分别向 GitHub 与 GitLab 提交不同代码？</title>
-    <link href="https://www.wrysmile.cn/Git-commit.html"/>
-    <id>https://www.wrysmile.cn/Git-commit.html</id>
-    <published>2021-08-15T16:22:40.000Z</published>
-    <updated>2023-01-17T09:08:24.672Z</updated>
-    
-    
-    <summary type="html">&lt;center&gt;如何在工作电脑上同时向两个仓库提交代码？&lt;/center&gt;
-
-&lt;center&gt;如何将工作代码和私人代码区分开？&lt;/center&gt;
-
-&lt;center&gt;↓ 看这里 ↓&lt;/center&gt;</summary>
-    
-    
-    
-    <category term="编程技巧" scheme="https://www.wrysmile.cn/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/"/>
-    
-    
-    <category term="Git" scheme="https://www.wrysmile.cn/tags/Git/"/>
-    
-    <category term="仓库" scheme="https://www.wrysmile.cn/tags/%E4%BB%93%E5%BA%93/"/>
     
   </entry>
   
