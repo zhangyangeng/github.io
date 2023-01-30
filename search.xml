@@ -2131,6 +2131,49 @@
       </tags>
   </entry>
   <entry>
+    <title>使用Git拉取代码时报错Connection reset by 20.205.243.166 port 22</title>
+    <url>/Git_Connect_reset.html</url>
+    <content><![CDATA[<p></p>
+<span id="more"></span>
+<p>报错代码如下：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">Connection reset by 20.205.243.166 port 22</span><br><span class="line">fatal: Could not read from remote repository.</span><br><span class="line"></span><br><span class="line">Please make sure you have the correct access rights</span><br><span class="line">and the repository exists.</span><br></pre></td></tr></table></figure>
+<p>百度搜了很多方法，如下：</p>
+<ul class="lvl-0">
+<li class="lvl-2">
+<p><s>重新生成ssh密钥</s></p>
+</li>
+<li class="lvl-2">
+<p><s>修改22端口为443</s></p>
+</li>
+<li class="lvl-2">
+<p><s>修改git用户邮箱设置</s></p>
+</li>
+<li class="lvl-2">
+<p><s>删除 <code>known_hosts</code> 中有关 Github相关行</s></p>
+</li>
+<li class="lvl-2">
+<p>将网络切换为手机热点（确实有效，治标不治本，怀疑公司内网问题）</p>
+</li>
+<li class="lvl-2">
+<p>修改clone方式为https（应该有效，没试，治标不治本，而且项目多时太麻烦）</p>
+</li>
+</ul>
+<p>今天又遇到了，突然回过神来，公司以前一直是可以正常使用的啊，那绝不可能是公司内网问题</p>
+<p>遂放弃百度搜索，换用谷歌大法，终于找到了根本原因</p>
+<p>可参考 <a href="https://www.v2ex.com/t/841032">无法 push 到 Github 了，有人知道为什么吗？</a> 和 <a href="https://gist.github.com/chuyik/02d0d37a49edc162546441092efae6a1#%E4%BA%8Cssh-%E5%BD%A2%E5%BC%8F">macOS 给 Git(Github) 设置代理（HTTP/SSH）</a></p>
+<p>归根结底是电脑代理问题导致，那么问题就好解决了 —— 给Git设置代理即可</p>
+<p>修改 <code>C:/用户/.ssh/</code> 目录下的 <code>config</code> 文件</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">Host github.com</span><br><span class="line">    port 22</span><br><span class="line">    User git</span><br><span class="line">    HostName github.com</span><br><span class="line">    PreferredAuthentications publickey</span><br><span class="line">    IdentityFile ~/.ssh/id_rsa_github</span><br><span class="line">    # 添加下面这一行，端口号为你开启代理的端口号，这里7890是Clash默认端口号</span><br><span class="line">    ProxyCommand connect -S 127.0.0.1:7890 -a none %h %p</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Git专栏</category>
+      </categories>
+      <tags>
+        <tag>Git</tag>
+        <tag>代理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo博客之Markdown渲染引擎</title>
     <url>/Hexo-05.html</url>
     <content><![CDATA[<center>本篇教你如何切换Hexo的Markdown渲染引擎</center>

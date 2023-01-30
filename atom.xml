@@ -6,7 +6,7 @@
   <link href="https://www.wrysmile.cn/atom.xml" rel="self"/>
   
   <link href="https://www.wrysmile.cn/"/>
-  <updated>2023-01-29T08:53:59.828Z</updated>
+  <updated>2023-01-30T07:23:17.149Z</updated>
   <id>https://www.wrysmile.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Git拉取代码时报错Connection reset by 20.205.243.166 port 22</title>
+    <link href="https://www.wrysmile.cn/Git_Connect_reset.html"/>
+    <id>https://www.wrysmile.cn/Git_Connect_reset.html</id>
+    <published>2023-01-30T07:13:24.000Z</published>
+    <updated>2023-01-30T07:23:17.149Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Git专栏" scheme="https://www.wrysmile.cn/categories/Git%E4%B8%93%E6%A0%8F/"/>
+    
+    
+    <category term="Git" scheme="https://www.wrysmile.cn/tags/Git/"/>
+    
+    <category term="代理" scheme="https://www.wrysmile.cn/tags/%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo博客之Markdown渲染引擎</title>
@@ -422,27 +443,6 @@
     <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
     
     <category term="组件" scheme="https://www.wrysmile.cn/tags/%E7%BB%84%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Angular开发：基础内容</title>
-    <link href="https://www.wrysmile.cn/Learn-Angular.html"/>
-    <id>https://www.wrysmile.cn/Learn-Angular.html</id>
-    <published>2021-08-17T14:55:03.000Z</published>
-    <updated>2023-01-19T08:05:18.038Z</updated>
-    
-    
-    <summary type="html">&lt;center&gt;本篇是Angular开发中需要掌握的基础内容&lt;/center&gt;</summary>
-    
-    
-    
-    <category term="Angular开发" scheme="https://www.wrysmile.cn/categories/Angular%E5%BC%80%E5%8F%91/"/>
-    
-    
-    <category term="Angular" scheme="https://www.wrysmile.cn/tags/Angular/"/>
-    
-    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
