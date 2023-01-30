@@ -2131,6 +2131,33 @@
       </tags>
   </entry>
   <entry>
+    <title>如何监听浏览器控制台的打印信息？</title>
+    <url>/listen_console_log.html</url>
+    <content><![CDATA[<p></p>
+<span id="more"></span>
+<div class="danger">
+<p><strong>注意：</strong><br>
+拦截并监听控制台打印并不是一个好的行为，为了网站安全请谨慎使用</p>
+</div>
+<h1>需求背景</h1>
+<p>当我们在项目中引入某些第三方依赖时，该第三方依赖会在浏览器控制台打印相关信息，如 <code>stompjs</code> 会打印 stomp 连接情况</p>
+<p>今天有个新需求是<mark>需要将控制台的打印信息展示在页面的某个区域</mark>，方便测试人员使用，因此进行调研</p>
+<h1>方案调研</h1>
+<p>调研发现可行方案就是拦截原生的 <code>Console.log()</code> 等相关方法并重写，在重写的方法中就可以监听打印的内容了</p>
+<p>同时也找到了一个现成的库，可前往Github - <a href="https://github.com/ianpgall/js-console-listener">js-console-listener</a> 进行查看，该库可以监听到原生 <code>Console</code> 对象下的所有方法</p>
+<h1>使用方法</h1>
+<p>在项目中引入该库，然后监听自己想要监听的日志级别，如下：</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line">ConsoleListener.on(<span class="string">&quot;log&quot;</span>, <span class="function"><span class="keyword">function</span> (<span class="params">res</span>) </span>&#123;</span><br><span class="line">    <span class="keyword">const</span> infoElement = <span class="built_in">document</span>.createElement(<span class="string">&#x27;div&#x27;</span>);</span><br><span class="line">    infoElement.className = <span class="string">&#x27;pre&#x27;</span></span><br><span class="line">    infoElement.innerHTML = res;</span><br><span class="line">    <span class="keyword">const</span> multiElement = <span class="built_in">document</span>.getElementsByClassName(<span class="string">&#x27;multi&#x27;</span>)[<span class="number">0</span>];</span><br><span class="line">    multiElement.appendChild(infoElement);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>前端开发</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+        <tag>浏览器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用Git拉取代码时报错Connection reset by 20.205.243.166 port 22</title>
     <url>/Git_Connect_reset.html</url>
     <content><![CDATA[<p></p>

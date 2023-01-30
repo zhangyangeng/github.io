@@ -6,7 +6,7 @@
   <link href="https://www.wrysmile.cn/atom.xml" rel="self"/>
   
   <link href="https://www.wrysmile.cn/"/>
-  <updated>2023-01-30T07:23:17.149Z</updated>
+  <updated>2023-01-30T08:43:31.616Z</updated>
   <id>https://www.wrysmile.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何监听浏览器控制台的打印信息？</title>
+    <link href="https://www.wrysmile.cn/listen_console_log.html"/>
+    <id>https://www.wrysmile.cn/listen_console_log.html</id>
+    <published>2023-01-30T08:00:58.000Z</published>
+    <updated>2023-01-30T08:43:31.616Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="前端开发" scheme="https://www.wrysmile.cn/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="浏览器" scheme="https://www.wrysmile.cn/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>使用Git拉取代码时报错Connection reset by 20.205.243.166 port 22</title>
@@ -422,27 +443,6 @@
     <category term="编码" scheme="https://www.wrysmile.cn/tags/%E7%BC%96%E7%A0%81/"/>
     
     <category term="Emoji" scheme="https://www.wrysmile.cn/tags/Emoji/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>学习笔记：ng-zorro</title>
-    <link href="https://www.wrysmile.cn/Learn-ng-zorro.html"/>
-    <id>https://www.wrysmile.cn/Learn-ng-zorro.html</id>
-    <published>2021-09-05T16:33:21.000Z</published>
-    <updated>2023-01-17T09:08:24.679Z</updated>
-    
-    
-    <summary type="html">&lt;center&gt;ng-zorro 是一个用在 Angular 项目上的组件库&lt;/center&gt;</summary>
-    
-    
-    
-    <category term="学习笔记" scheme="https://www.wrysmile.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="前端" scheme="https://www.wrysmile.cn/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="组件" scheme="https://www.wrysmile.cn/tags/%E7%BB%84%E4%BB%B6/"/>
     
   </entry>
   
